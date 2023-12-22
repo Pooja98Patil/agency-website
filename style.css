@@ -1,0 +1,41 @@
+body{
+    background-color: #faf9f6;
+    font-family: "Poppins", sans-serif;
+}
+section{
+    box-sizing: border-box;
+    padding: 30px;
+}
+header img{
+    height: 30px;
+    width: 140px;
+}
+.container{
+    display: flex;
+   height: 40vh;
+    
+}
+.container img{
+   height: 175px;
+   width: 300px;
+}
+.text{
+  float: right;
+  padding: 15px;
+  margin-left: 15px;
+  font-size: 16px;
+}
+.box{
+    margin-right: 60px;
+}
+h1{
+    font-size: 55px;
+}
+.color{
+    color: #673AB7;
+}
+.para{
+    text-align: right;
+    color:#673AB7 ;
+    font-weight: 600;
+}
